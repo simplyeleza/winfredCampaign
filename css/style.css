@@ -2099,7 +2099,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*----------------------------------------*/
 /*Video Wrapper*/
 .video-wrapper {
-  background-image: url(../img/bg/video.jpg);
+  background-image: url(../img/cover.png);
   background-size: cover;
   background-position: center center;
   padding: 110px 0;
