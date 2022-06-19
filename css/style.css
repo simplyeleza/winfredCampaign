@@ -1726,7 +1726,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 /*  6.  Doantion Area
 /*----------------------------------------*/
 .donation-area {
-  background-image: url(../img/bg/donation.jpg);
+  background-image: url(../img/cover.png);
   background-position: center center;
   background-size: cover;
   position: relative;
