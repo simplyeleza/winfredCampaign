@@ -2780,3 +2780,18 @@ blockquote {
   color: #e5e5e5;
   line-height: 20px;
 }
+
+
+
+
+/* Custom, iPhone Retina */
+
+
+@media only screen and (max-width : 480px) {
+
+  #CitizenTv{
+    width: 350px !important;
+  }
+
+
+}
